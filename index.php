@@ -345,3 +345,6 @@ while($row = $c_qry->fetch_assoc()){
       <?php require_once('inc/footer.php') ?>
   </body>
 </html>
+
+
+
